@@ -1,3 +1,5 @@
+Converting ADAPT to support freepascal. Aims to keep Delphi compatibility, but new features will first be written for FPC (and if time permits ported and tested in Delphi).
+
 # Advanced Developer Async Programming Toolkit (ADAPT)
 ADAPT is a foundation library intended to be used at the heart of your projects for the purpose of providing extremely powerful, multi-threaded (and thread-safe) capabilities.
 
